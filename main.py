@@ -1,5 +1,7 @@
+from icecream import ic # type: ignore
+
 def main():
-    print("Hello from python-dsa!")
+    ic("Hello World")
 
 
 if __name__ == "__main__":
